@@ -118,10 +118,10 @@ Feel free to fork, extend, and adapt the agent’s abilities, authentication sch
 
 ## License
 
-MIT (or specify your preferred open source/commercial license)
+
 
 ## Contact
 
-For support, feature requests, or contributions, open an issue or contact `maintainer@yourdomain.com`.
+For support, feature requests, or contributions, open an issue or contact `asadmulla31@gmail.com`.
 
 **Empowering truly autonomous retail—where AIs collaborate, adapt, and serve at the speed of thought.**
