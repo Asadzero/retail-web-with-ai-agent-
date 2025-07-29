@@ -1,4 +1,4 @@
-# README: AI-Driven Retail Website – Full-Control AI Agent
+#  AI-Driven Retail Website 
 
 ## Overview
 
